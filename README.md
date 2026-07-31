@@ -64,3 +64,5 @@ pip install bleak customtkinter pyinstaller
 python -m PyInstaller --noconsole --onefile keybinds.py
 ```
 Your compiled launcher will be placed cleanly inside the newly generated `/dist` directory.
+
+Currently WIP when the Uno Q arrives I will begin coding the AI functions.
