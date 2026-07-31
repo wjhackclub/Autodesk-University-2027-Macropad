@@ -1,6 +1,6 @@
 # Macropad
 
-A wireless BLE keyboard the size of your hand for custom hotkeys.
+A wireless BLE keyboard the size of your hand.
 <img width="2160" height="1082" alt="thumbnail (1)" src="https://github.com/user-attachments/assets/46accc81-fb6a-4021-981c-a8541892e624" />
 
 This project was made for Autodesk University 2027 to assist apps without autocomplete. The Macropad uses the ESP32 core chip for latency-free Bluetooth transmission, taking sub 50ms. Features include key debouncing, a status LED indicator, a quick swap keybind changing tool, and an internal memory storage bank. Menu choices and key layouts can be configured easily using the desktop app.
